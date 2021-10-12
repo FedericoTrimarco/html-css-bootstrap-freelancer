@@ -45,3 +45,9 @@
 .card-pic img{
     border-radius: 1rem;
 }
+/* 4°SECTION */
+.form-control{
+    border: 0;
+    border-radius: 0;
+    border-bottom: 1px solid #ccc;
+}
