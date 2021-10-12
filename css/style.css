@@ -15,14 +15,9 @@
 
 /* star-icon */
 .star{
-    position: relative;
     width: 30%;
 }
 .star i{
-    position: absolute;
-    bottom: 0;
-    left: 50%;
-    transform: translateX(-50%);
     font-size: 1.5rem;
 }
 .star hr{
@@ -40,6 +35,12 @@
 }
 
 /* 1°SECTION */
+.section-one,
+.section-two,
+.section-three{
+    padding-top: 100px;
+    padding-bottom: 50px;
+}
 .logo-img{
     width: 300px;
 }
